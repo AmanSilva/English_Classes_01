@@ -42,8 +42,8 @@
 34. Want - Querer
 35. Write - Escrever
 36. Read - Ler
-38. Learn - Aprender
-39. Know - Saber
+37. Learn - Aprender
+38. Know - Saber
 
 ### "Do you...?" Questions and its Answers
 
