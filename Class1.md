@@ -16,8 +16,8 @@
 12. Speak - Falar
 13. Say - Dizer
 14. Sit - Sentar
-15. Stand up - Levantarse
-16. Get up - Levantarse
+15. Stand up - Levantar-se
+16. Get up - Levantar-se
 17. Sleep - Dormir
 18. Wake up - Acordar
 19. Wear - Vestir
