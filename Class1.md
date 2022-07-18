@@ -44,3 +44,7 @@
 36. Read - Ler
 38. Learn - Aprender
 39. Know - Saber
+
+### "Do you...?" Questions and its Answers
+
+Hello there.
