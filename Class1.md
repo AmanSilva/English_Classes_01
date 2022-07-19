@@ -59,4 +59,4 @@ This type of questions with "Do you...?" can be answered with "Yes, I do" or "No
 
 1. Early - Cedo
 2. Often - Frequentemente
-3. Apple pie - Tarta de maçã
+3. Apple pie - Torta de maçã
