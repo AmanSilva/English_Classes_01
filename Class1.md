@@ -54,3 +54,9 @@ This type of questions with "Do you...?" can be answered with "Yes, I do" or "No
 > * Do you play the guitar? _No, I don't._
 > * Do you watch television often? _Yes, I do._
 > * Do you eat apple pies often? _No, I don't._
+
+### Vocabulary
+
+1. Early - Cedo
+2. Often - Frequentemente
+3. Apple pie - Tarta de maçã
