@@ -49,7 +49,7 @@
 
 This type of questions with "Do you...?" can be answered with "Yes, I do" or "No, I don't" (they are Yes/No questions). They refer to the present tense.
 > **Examples:**
-> * Do you speak Chinese? _No, I don't._
+> * Do you speak English? _No, I don't._
 > * Do you get up early? _Yes, I do._
 > * Do you play the guitar? _No, I don't._
 > * Do you watch television often? _Yes, I do._
