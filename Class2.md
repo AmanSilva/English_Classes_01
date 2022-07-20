@@ -28,4 +28,33 @@ Here are further examples of questions using some of the verbs from our Great Li
 21. Do you clean the tables every day?
 22. Do you drive?
 23. Do you help people do their homework?
-24. 
+24. Do you want to learn Japanese?
+25. Do you read a lot?
+
+### Homework
+
+Sua tarefa de casa terá duas partes:
+
+Primeiro, você deverá escolher 5 entre as perguntas que eu elaborei e respondê-las mediante audios no Whatsapp (com as suas respectivas perguntas). Depois, você terá que elaborar 5 perguntas e respondê-las por escrito (você envia a foto por whatsapp).
+
+**Serve como revisão pré-prova.**
+
+### Vocabulary
+
+1. School - Escola
+2. Bus - Ônibus
+3. Week - Semana
+4. Month - Mês
+5. Weekend - Final de Semana
+6. Mobile phone - Celular
+7. Turn on - Acender
+8. Turned off - Apagar
+9. Place - Lugar
+10. Early - Cedo
+11. Late - Tarde ou tardío
+> ⚠️ Só se pode usar como adverbio ou adjetivo.
+12. Sometimes - Algumas vezes
+13. Every day - Todos os dias
+14. Always - Sempre
+15. Table - Mesa
+16. A lot - Muito (no contexto da pergunta 25)
