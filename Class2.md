@@ -57,3 +57,4 @@ Primeiro, você deverá escolher 5 entre as perguntas que eu elaborei e respond�
 13. Always - Sempre
 14. Table - Mesa
 15. A lot - Muito (no contexto da pergunta 25)
+16. Often- Frequentemente
