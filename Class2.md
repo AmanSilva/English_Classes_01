@@ -35,7 +35,7 @@ Here are further examples of questions using some of the verbs from our Great Li
 
 Sua tarefa de casa terá duas partes:
 
-Primeiro, você deverá escolher 5 entre as perguntas que eu elaborei e respondê-las mediante audios no Whatsapp (com as suas respectivas perguntas). Depois, você terá que elaborar 5 perguntas e respondê-las por escrito (você envia a foto por whatsapp).
+Primeiro, você deverá escolher 5 entre as perguntas que eu elaborei e respondê-las mediante audios no Whatsapp (com as suas respectivas perguntas). Depois, você terá que elaborar 5 perguntas e respondê-las por escrito (você envia a foto por Whatsapp).
 
 **Serve como revisão pré-prova.**
 
