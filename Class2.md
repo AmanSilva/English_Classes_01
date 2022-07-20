@@ -54,7 +54,6 @@ Primeiro, você deverá escolher 5 entre as perguntas que eu elaborei e respond�
 11. Late - Tarde ou tardío
 > ⚠️ Só se pode usar como adverbio ou adjetivo.
 12. Sometimes - Algumas vezes
-13. Every day - Todos os dias
-14. Always - Sempre
-15. Table - Mesa
-16. A lot - Muito (no contexto da pergunta 25)
+13. Always - Sempre
+14. Table - Mesa
+15. A lot - Muito (no contexto da pergunta 25)
