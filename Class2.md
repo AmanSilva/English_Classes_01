@@ -22,10 +22,10 @@ Here are further examples of questions using some of the verbs from our Great Li
 15. Do you wear a uniform sometimes?
 16. Do you meet your friends every day?
 17. Do you play volleyball?
-18. Do you like strogonoffs?
+18. Do you like strogonoff?
 19. Do you always do your homework?
 20. Do you make cakes often?
-21. Do you clean the tables every day?
+21. Do you clean your home every day?
 22. Do you drive?
 23. Do you help people do their homework?
 24. Do you want to learn Japanese?
