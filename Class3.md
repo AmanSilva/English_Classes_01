@@ -21,7 +21,7 @@ Another type of questions are the Wh- questions. They are called this way becaus
 
 ### Questions with the 3rd Person Singular
 
-We can also use the structures previously mentioned to ask things about other persons, about cities or even about countries. We just need to change the pronoun _you_ for the name of another person (or city, or country, or...) and use _does_ instead of _do_.
+We can also use the structures previously mentioned to ask things about other people, about cities or even about countries. We just need to change the pronoun _you_ for the name of another person (or city, or country, or...) and use _does_ instead of _do_.
 
 > **Examples:**
 > * Where does the Pope live? _He lives in Vatican City. (In Vatican City)_
@@ -32,7 +32,7 @@ We can also use the structures previously mentioned to ask things about other pe
 
 Esta tarefa de casa terá duas partes:
 
-1. Primeiro você deverá escrever duas perguntas e respostas usando a segunda pessoa (you) e três usando a terceira pessoa. Você deverá usar as partículas interrogativas dadas nesta aula. Tire uma foto destas e mande-a por Whatsapp. Ademais, escolha duas perguntas quaisquer, e mande um audio por Whatsapp lendo-as em alto.
+1. Primeiro você deverá escrever duas perguntas e respostas usando a segunda pessoa (you) e três usando a terceira pessoa. Você deverá usar as partículas interrogativas dadas nesta aula. Tire uma foto destas e mande-a por Whatsapp. Ademais, escolha duas perguntas quaisquer, e mande um audio por Whatsapp lendo-as em voz alta.
 
 2. Depois, faça três perguntas que se possam responder com "sim" e não" (estrutura dada nas aulas anteriores) **usando a terceira pessoa e não a segunda.** Escreva-as no seu caderno, tire uma foto destas e envie-as por Whatsapp.
 
