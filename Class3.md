@@ -16,12 +16,12 @@ Another type of questions are the Wh- questions. They are called this way becaus
 > * What currency do you use in Brazil? _We use the Brazilian Real. (The Brazilian Real)_
 > * Where do you live? _I live in Salvador. (In Salvador)_
 > * When do you watch television? _I often watch TV from 13:30 to 14:45._
-> * Why do you go to Itaparica? _I go to Itaparica to visit my grandfather. (To visit my grandfather)_
+> * Why do you go to Itaparica? _I go to Itaparica to visit my grandfather. (To visit my grandfather) / I go there because I like visiting my grandfather. (Because I like visiting my grandfather)_
 > * How do you go to Itaparica? _I go to Itaparica by boat. (By boat)_
 
 ### Questions with the 3rd Person Singular
 
-We can also use the structures previously mentioned to ask things about other persons, about cities or even about countries. We just need to change the pronoun _you_ for the name of this other person (or city, or country, or...) and use _does_ instead of _do_.
+We can also use the structures previously mentioned to ask things about other persons, about cities or even about countries. We just need to change the pronoun _you_ for the name of another person (or city, or country, or...) and use _does_ instead of _do_.
 
 > **Examples:**
 > * Where does the Pope live? _He lives in Vatican City. (In Vatican City)_
@@ -38,4 +38,13 @@ Esta tarefa de casa terá duas partes:
 
 ### Vocabulary
 
-1. Hello there.
+1. Currency - Moeda financeira
+> Se refere ao dólar, ao real,...
+2. Grandfather - Avô
+3. Visit - Visitar
+4. There - Alí
+5. Because - Porque
+6. Boat - Barco
+7. Pope - Papa
+8. Chess - Xadrez
+9. Against - Contra
