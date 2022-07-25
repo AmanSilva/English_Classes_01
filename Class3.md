@@ -21,4 +21,9 @@ Another type of questions are the Wh- questions. They are called this way becaus
 > * When do you watch television? _I often watch TV from 13:30 to 14:45._
 > * Why do you go to Itaparica? _I go to Itaparica to visit my grandfather. (To visit my grandfather)_
 
-### A
+### Questions with the 3rd Person Singular
+
+We can also use the structures previously mentioned to ask things about other persons, about cities or even about countries. We just need to change the pronoun _you_ for the name of this other person (or city, or country, or...) and use _does_ instead of _do_.
+
+> **Examples:**
+> * Where does the Pope live? _He lives in Vatican City._
