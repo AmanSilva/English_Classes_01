@@ -26,4 +26,10 @@ Another type of questions are the Wh- questions. They are called this way becaus
 We can also use the structures previously mentioned to ask things about other persons, about cities or even about countries. We just need to change the pronoun _you_ for the name of this other person (or city, or country, or...) and use _does_ instead of _do_.
 
 > **Examples:**
-> * Where does the Pope live? _He lives in Vatican City._
+> * Where does the Pope live? _He lives in Vatican City. (In Vatican City)_
+> * When does Brazil celebrate its independence? _Brazil celebrates its independence on September the 7th. (on September the 7th)_
+> * How does Manoel play chess? _He plays chess against his computer._
+
+### Homework
+
+A
