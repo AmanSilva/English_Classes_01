@@ -12,14 +12,12 @@ Another type of questions are the Wh- questions. They are called this way becaus
 * How? - Como?
 
 > **Examples:**
-
 > * Who is the U.S. President? _The U.S. President is Joe Biden. (Joe Biden)_
-> * What do you use to write? _I use a pen to write. (A pen)_ 
 > * What currency do you use in Brazil? _We use the Brazilian Real. (The Brazilian Real)_
 > * Where do you live? _I live in Salvador. (In Salvador)_
-> * How do you go to Itaparica? _I go to Itaparica by boat. (By boat)_
 > * When do you watch television? _I often watch TV from 13:30 to 14:45._
 > * Why do you go to Itaparica? _I go to Itaparica to visit my grandfather. (To visit my grandfather)_
+> * How do you go to Itaparica? _I go to Itaparica by boat. (By boat)_
 
 ### Questions with the 3rd Person Singular
 
