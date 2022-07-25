@@ -36,7 +36,7 @@ Esta tarefa de casa terá duas partes:
 
 2. Depois, faça três perguntas que se possam responder com "sim" e não" (estrutura dada nas aulas anteriores) **usando a terceira pessoa e não a segunda.** Escreva-as no seu caderno, tire uma foto destas e envie-as por Whatsapp.
 
-Pronomes que você poderá querer usar (ou não) nesta tarefa de casa são _he_ (ele) e _she_ (ela) ou até _it_.
+Pronomes que você poderá querer usar (ou não) nesta tarefa de casa são _he_ (ele) e _she_ (ela).
 
 ### Vocabulary
 
