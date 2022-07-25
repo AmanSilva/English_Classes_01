@@ -25,7 +25,7 @@ We can also use the structures previously mentioned to ask things about other pe
 
 > **Examples:**
 > * Where does the Pope live? _He lives in Vatican City. (In Vatican City)_
-> * When does Brazil celebrate its independence? _Brazil celebrates its independence on September the 7th. (on September the 7th)_
+> * When does Brazil celebrate its independence? _Brazil celebrates its independence on September the 7th. (On September the 7th)_
 > * How does Manoel play chess? _He plays chess against his computer._
 
 ### Homework
